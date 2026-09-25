@@ -94,8 +94,8 @@ Translations are welcome — into widely used languages (English, Japanese, Kore
 
 ## 在线阅读
 
-- GitHub Pages：（仓库发布后补充）
-- Gitee 镜像：（国内读者访问入口，发布后补充）
+- GitHub Pages：https://jiangyuepingfeng.github.io/jiangyuepingfeng/（网页版在线阅读：首页 + 上卷 / 中卷 / 下卷）
+- Gitee 镜像：（建设中，国内读者访问不畅时可先使用上方 GitHub Pages 链接）
 
 ## 许可协议 / License
 
